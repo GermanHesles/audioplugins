@@ -9,7 +9,7 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 320,
+  maxWidth: 640,
 }
 const headingAccentStyles = {
   color: "#663399",
@@ -131,9 +131,9 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Congratulations
+        Welcome to Audioplugins !!!
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
+        <span style={headingAccentStyles}> your site to discover audioplugins </span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
